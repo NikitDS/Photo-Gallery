@@ -1,0 +1,12 @@
+body{
+text-align: center;
+    scroll-behavior: smooth;
+}
+img{
+    height:100%;
+    width:100%;
+}
+.img2{
+    height: 350px;
+    width:350px;
+}
